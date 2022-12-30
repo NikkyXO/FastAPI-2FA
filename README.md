@@ -1,2 +1,2 @@
 # FastAPI-2FA
-developing a tool for two factor authentication security
+### Looking forward to security tool implementation to help with Two factor authentication in FastAPI
